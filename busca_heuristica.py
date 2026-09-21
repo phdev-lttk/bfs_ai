@@ -1,5 +1,5 @@
 """
-BUSCA HEURÍSTICA (GULOSA / GREEDY BEST-FIRST SEARCH)
+BUSCA HEURÍSTICA (GREEDY BEST-FIRST SEARCH)
 Base de Atendimento  ->  Hospital Central
 
 Como funciona (resumo para a apresentação):
