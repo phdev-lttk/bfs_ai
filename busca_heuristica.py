@@ -313,7 +313,7 @@ class AppBusca:
         painel = tk.Frame(janela)
         painel.grid(row=0, column=1, rowspan=2, sticky="n", padx=10, pady=15)
 
-        tk.Label(painel, text="Busca Heurística (Gulosa)",
+        tk.Label(painel, text="Busca Heurística",
                  font=("Arial", 16, "bold")).pack(anchor="w")
 
         # escolha da heurística
